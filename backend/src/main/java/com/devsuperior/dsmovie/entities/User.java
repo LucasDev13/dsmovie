@@ -11,7 +11,6 @@ public class User {
     private Long id;
     private String email;
 
-    @Deprecated
     public User() {
     }
 
