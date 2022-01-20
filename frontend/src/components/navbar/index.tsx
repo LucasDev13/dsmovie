@@ -15,12 +15,6 @@ function Navbar() {
                             <p className="dsmovie-contact-link">/LucasDev13</p>
                         </div>
                     </a>
-                    {/* <a href='https://www.linkedin.com/in/pontes-lucas/'>
-                        <div className="dsmovie-contact-container">
-                            <LinkedIn />
-                            <p className="dsmovie-contact-link">/LinkedIn</p>
-                        </div>
-                    </a> */}
                 </div>
             </nav>
         </header>
