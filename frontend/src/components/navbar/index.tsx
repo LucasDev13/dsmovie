@@ -1,5 +1,4 @@
 import { ReactComponent as GithubIcon } from 'assets/img/github.svg';
-import { ReactComponent as LinkedIn } from 'assets/img/linkedin.svg';
 import './styles.css';
 
 function Navbar() {
