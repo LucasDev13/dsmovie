@@ -1,5 +1,4 @@
 import { ReactComponent as GithubIcon } from 'assets/img/github.svg';
-import { ReactComponent as LinkedIn } from 'assets/img/linkedin.svg';
 import './styles.css';
 
 function Navbar() {
@@ -15,12 +14,6 @@ function Navbar() {
                             <p className="dsmovie-contact-link">/LucasDev13</p>
                         </div>
                     </a>
-                    {/* <a href='https://www.linkedin.com/in/pontes-lucas/'>
-                        <div className="dsmovie-contact-container">
-                            <LinkedIn />
-                            <p className="dsmovie-contact-link">/LinkedIn</p>
-                        </div>
-                    </a> */}
                 </div>
             </nav>
         </header>
