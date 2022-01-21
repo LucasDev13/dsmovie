@@ -9,8 +9,6 @@ function Listing() {
         .then(response => {
             console.log(response.data)
         });
-
-
     return (
         <>
             <Pagination />
