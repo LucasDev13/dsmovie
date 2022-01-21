@@ -11,7 +11,7 @@ services:
       - "15432:5432"
     volumes:
       #- C:/Users/lucas.castro/Documents/workspace-micronout/data:/var/lib/postgresql/data
-      - C:/projetos/dsmovie/data:/var/lib/postgresql/data
+      - C:/projetos/data:/var/lib/postgresql/data
     networks:
       - postgres-compose-network
 
